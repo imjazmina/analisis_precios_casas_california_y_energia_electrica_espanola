@@ -1,0 +1,3 @@
+### Dependencias 
+
+pip install pandas numpy matplotlib seaborn jupyter
